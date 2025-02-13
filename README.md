@@ -10,7 +10,7 @@
 ``` bash
 本系统采用beego框架，在开始前请确保你已经安装就绪；
 
-拉取代码：git clone https://github.com/EliseCaro/araneid.git
+拉取代码：git clone https://github.com/flyingfish518/zhizhu.git
 
 进入文件夹：cd araneid
 
